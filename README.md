@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Suhana! 👋
 
-<!--
-**dineshbinlagging/dineshbinlagging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Android Developer and Java Developer from India. I love coding, creating new projects, and always eager to learn new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on improving my Android development skills.
+- 🌱 I’m currently learning Kotlin and exploring advanced Java concepts.
+- 💬 Ask me about anything related to Android development or Java programming.
+- 📫 How to reach me: suhana@example.com
+- ⚡ Fun fact: When I'm not coding, you can find me experimenting with new recipes in the kitchen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages**: Java, Kotlin
+- **Frameworks and Tools**: Android Studio, Git, Gradle
+- **Libraries**: Retrofit, Glide, Room
